@@ -26,6 +26,7 @@
 - DJ was here
 - Saiteja
 - [Younis Ayoub](https://github.com/younisdev): Hello World!
+- [Leonardo Carvalho Machado](https://github.com/leonardocarmac)
 - [Faiz Khan](https://github.com/calvincandiec137):
 - [Pedro Arias](https://github.com/pedarias) -[Aakash Gaur](https://github.com/aakashGaur03)
 - [Mehul Kaushik](https://github.com/Epicguest97)
